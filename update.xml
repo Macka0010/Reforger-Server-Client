@@ -1,8 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <update>
-    <version>1.0.0</version>
-    <url>https://github.com/Macka0010/ReforgerServerClient/releases/download/1.0.1/ReforgerServerClientSetup.exe</url>
+    <version>1.0.0.1</version>
+    <url>https://github.com/Macka0010/ReforgerServerClient/releases/download/v1.0.0.1/setup.exe</url>
     <releaseNotes>
-        - Fixed bugs
-        - Improved performance
+        Fixed minor bugs and performance improvements.
     </releaseNotes>
 </update>
